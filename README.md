@@ -94,7 +94,7 @@ The system is broken up into three different components: the Player Module, the 
 
 ## System Schematics
 ### RGB Matrix Display Pin Layout (ESP32 Central Display Module)
-![RGB Pinout](https://drive.google.com/file/d/1IO_N6P1bR3W56FiRDxjsspQOr7EXhwi7/preview)
+![RGB Pinout](https://drive.google.com/uc?export=view&id=1IO_N6P1bR3W56FiRDxjsspQOr7EXhwi7)
 
 ### RGB Matrix Plug Pin Layout
 <iframe src="https://drive.google.com/file/d/1vO5TgZ0qUhdwg6yX1h-T3uiXVtZLM-fJ/preview" width="640" height="480"></iframe>
