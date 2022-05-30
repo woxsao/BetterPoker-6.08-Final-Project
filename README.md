@@ -81,7 +81,7 @@ The system should act as follows:
 
 
 ## System Diagram
-![System Diagram](https://drive.google.com/file/d/1gjcggRdOJEUGCVmnW1aFk2lsceLpVvmq/preview)
+![System Diagram](https://drive.google.com/file/d/1gjcggRdOJEUGCVmnW1aFk2lsceLpVvmq/)
 
 The system is broken up into three different components: the Player Module, the Central Display, and the Camera Module.
 
