@@ -16,7 +16,7 @@ features such as:
 * Keeping track of the current pot size
 * Taking pictures to commemorate your winning hands!
 
-
+## Demo Video
 [Demo Video](https://www.youtube.com/embed/0p4siM_CO24)
 # How-to
 
@@ -81,7 +81,7 @@ The system should act as follows:
 
 
 ## System Diagram
-![System Diagram](https://drive.google.com/file/d/1gjcggRdOJEUGCVmnW1aFk2lsceLpVvmq/)
+![System Diagram](https://drive.google.com/uc?export=view&id=1gjcggRdOJEUGCVmnW1aFk2lsceLpVvmq/)
 
 The system is broken up into three different components: the Player Module, the Central Display, and the Camera Module.
 
@@ -97,10 +97,10 @@ The system is broken up into three different components: the Player Module, the 
 ![RGB Pinout](https://drive.google.com/uc?export=view&id=1IO_N6P1bR3W56FiRDxjsspQOr7EXhwi7)
 
 ### RGB Matrix Plug Pin Layout
-<iframe src="https://drive.google.com/file/d/1vO5TgZ0qUhdwg6yX1h-T3uiXVtZLM-fJ/preview" width="640" height="480"></iframe>
+![Adafruit Pinout diagram](https://drive.google.com/uc?export=view&id=1vO5TgZ0qUhdwg6yX1h-T3uiXVtZLM-fJ)
 
 ### Keypad Pin Layout (ESP32 Player Module)
-<iframe src="https://drive.google.com/file/d/19LlasmlDsiy5JG4qD22oaX7k06XQfE1g/preview" width="640" height="480"></iframe>
+![Keypad schematic](https://drive.google.com/uc?export=view&id=19LlasmlDsiy5JG4qD22oaX7k06XQfE1g)
 
 
 ## Parts List
