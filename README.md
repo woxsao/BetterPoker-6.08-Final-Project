@@ -17,7 +17,7 @@ features such as:
 * Taking pictures to commemorate your winning hands!
 
 
-<iframe width="1512" height="723" src="https://www.youtube.com/embed/0p4siM_CO24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Demo Video](https://www.youtube.com/embed/0p4siM_CO24)
 # How-to
 
 ## Joining the Game
@@ -81,7 +81,7 @@ The system should act as follows:
 
 
 ## System Diagram
-<iframe src="https://drive.google.com/file/d/1gjcggRdOJEUGCVmnW1aFk2lsceLpVvmq/preview" width="640" height="480"></iframe>
+![System Diagram](https://drive.google.com/file/d/1gjcggRdOJEUGCVmnW1aFk2lsceLpVvmq/preview)
 
 The system is broken up into three different components: the Player Module, the Central Display, and the Camera Module.
 
@@ -94,7 +94,7 @@ The system is broken up into three different components: the Player Module, the 
 
 ## System Schematics
 ### RGB Matrix Display Pin Layout (ESP32 Central Display Module)
-<iframe src="https://drive.google.com/file/d/1IO_N6P1bR3W56FiRDxjsspQOr7EXhwi7/preview" width="640" height="480"></iframe>
+![RGB Pinout](https://drive.google.com/file/d/1IO_N6P1bR3W56FiRDxjsspQOr7EXhwi7/preview)
 
 ### RGB Matrix Plug Pin Layout
 <iframe src="https://drive.google.com/file/d/1vO5TgZ0qUhdwg6yX1h-T3uiXVtZLM-fJ/preview" width="640" height="480"></iframe>
