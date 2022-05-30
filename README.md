@@ -16,7 +16,7 @@ features such as:
 * Keeping track of the current pot size
 * Taking pictures to commemorate your winning hands!
 
-## Demo Video
+# Demo Video
 [Demo Video](https://www.youtube.com/embed/0p4siM_CO24)
 # How-to
 
